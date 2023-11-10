@@ -1,0 +1,4 @@
+Installation:
+    ☐ Prisma
+    ☐ ConfigModule.forRoot (global .env)
+    ☐ Apollo GraphQL
